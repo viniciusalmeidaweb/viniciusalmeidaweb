@@ -18,7 +18,7 @@ Atualmente estou focado(a) em:
 Aqui no meu GitHub você vai encontrar projetos como:
 - 📌 DASHBOARD GESTÃO DE FROTAS COM POWER BI: https://app.powerbi.com/view?r=eyJrIjoiZGJlNzM2NTAtOTczYS00MjZhLTg3OGItYzQzMzBlMjliMjA1IiwidCI6IjY4YjQ3YzJkLWNmYTEtNDJlMC1hNTQzLTAyZjc5MzgwZjkxOSJ9
   
-- Projeto de Loja de carros em python/django
+- Projeto de catalogo de carros em python/django: https://github.com/viniciusalmeidaweb/carros
 
 ## 📫 Contato
 
