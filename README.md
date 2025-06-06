@@ -3,9 +3,10 @@
 ## 💻 Sobre mim
 
 Tenho experiência com:
+- 🔹 Front-End: Css, Html, Js, Bootstrap.
 - 🔹 Business Intelligence. 
 - 🔹 Linguagens: Python.
-- 🔹 Frameworks: Django, Bootstrap.
+- 🔹 Frameworks: Django.
 - 🔹 Ferramentas: Git, VSCode, Power BI.
 
 Atualmente estou focado(a) em:
@@ -23,7 +24,7 @@ Aqui no meu GitHub você vai encontrar projetos como:
 ## 📫 Contato
 
 Você pode falar comigo por aqui:
-- LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome) 
+- LinkedIn: https://www.linkedin.com/in/vaweb/ 
 
 ---
 
