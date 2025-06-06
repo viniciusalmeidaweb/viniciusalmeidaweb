@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou Vinicius Almeida
 
-<!--
-**viniciusalmeidaweb/viniciusalmeidaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
 
-Here are some ideas to get you started:
+Tenho experiência com:
+- 🔹 Business Intelligence. 
+- 🔹 Linguagens: Python.
+- 🔹 Frameworks: Django, Bootstrap.
+- 🔹 Ferramentas: Git, VSCode, Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou focado(a) em:
+- 📚 Aprimorar meus conhecimentos em Python e Django e B.I
+- 🔨 Desenvolver projetos open-source
+- 🤝 Colaborar com a comunidade
+
+## 🚀 Meus projetos
+
+Aqui no meu GitHub você vai encontrar projetos como:
+- 📌 DASHBOARD GESTÃO DE FROTAS COM POWER BI: https://app.powerbi.com/view?r=eyJrIjoiZGJlNzM2NTAtOTczYS00MjZhLTg3OGItYzQzMzBlMjliMjA1IiwidCI6IjY4YjQ3YzJkLWNmYTEtNDJlMC1hNTQzLTAyZjc5MzgwZjkxOSJ9
+  
+- Projeto de Loja de carros em python/django
+
+## 📫 Contato
+
+Você pode falar comigo por aqui:
+- LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome) 
+
+---
+
+⭐️ Se gostou de algum projeto, sinta-se à vontade para dar uma estrela!
