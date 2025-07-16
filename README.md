@@ -17,9 +17,15 @@ Atualmente estou focado(a) em:
 ## 🚀 Meus projetos
 
 Aqui no meu GitHub você vai encontrar projetos como:
+
+- Web site cleinte em python/django: https://www.jullyaejuliana.com.br/ 
+
 - 📌 DASHBOARD GESTÃO DE FROTAS COM POWER BI: https://app.powerbi.com/view?r=eyJrIjoiZGJlNzM2NTAtOTczYS00MjZhLTg3OGItYzQzMzBlMjliMjA1IiwidCI6IjY4YjQ3YzJkLWNmYTEtNDJlMC1hNTQzLTAyZjc5MzgwZjkxOSJ9
-  
+
+- Sistema de gestão de estoque em python/django: https://github.com/viniciusalmeidaweb/sge
 - Projeto de catalogo de carros em python/django: https://github.com/viniciusalmeidaweb/carros
+
+
 
 ## 📫 Contato
 
